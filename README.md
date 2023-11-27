@@ -17,10 +17,7 @@ This webapp can be directly accessed here (May take some time to boot up)
 > https://tagoverflow.prasadkhare1.repl.co/
 
 <br><br>
-See the Demo here: https://www.youtube.com/watch?v=-w_qxBsDass (PS: Not a presentation expert 🙃)
-<br>
-Project Report: [Click Me!](https://drive.google.com/file/d/1vSCQqTyhUhDYr-3QECOfjM_6pFklC4k7/view?usp=sharing).
-<br><br>
+
 # Setup
 Download the Zip and Extract. Rename with a short name.
 Or, clone the project from github with
